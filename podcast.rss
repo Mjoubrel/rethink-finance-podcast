@@ -1,32 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?>
+		 <rss 
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0">
 
 <channel>
 <title>Repense la Finance</title>
-<atom:link href="https://valuecometrics.com/podcast.rss" rel="self" type="application/rss+xml" />
+<description><![CDATA[<p>Je m'appelle Jeanne Derouéné, j'ai 22 ans et depuis septembre 2022, j'ai rejoint l'aventure entrepreneuriale de ValueCo. Notre mission est de devenir un leader dans le domaine des facteurs ESG et de la durabilité en agrégeant et en harmonisant les scores propriétaires des différents gestionnaires d'actifs, permettant ainsi la comparabilité des données ESG pour l'ensemble de l'écosystème financier.</p>]]></description>
+<atom:link href="https://github.com/Mjoubrel/rethink-finance-podcast/blob/main/podcast.rss" rel="self" type="application/rss+xml" />
 <link>https://valuecometrics.com</link>
-<description>Je m'appelle Jeanne Derouéné, j'ai 22 ans et depuis septembre 2022, j'ai rejoint l'aventure entrepreneuriale de ValueCo. Notre mission est de devenir un leader dans le domaine des facteurs ESG et de la durabilité en agrégeant et en harmonisant les scores propriétaires des différents gestionnaires d'actifs, permettant ainsi la comparabilité des données ESG pour l'ensemble de l'écosystème financier.</description>
-<lastBuildDate>Sat, 02 Sep 2023 13:32:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 03 Sep 2023 20:37:20 +0000</lastBuildDate>
 <language>fr</language>
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
-	<itunes:summary>Ce secteur, encore récent pour moi, m'enthousiasme et me questionne. Pour le comprendre en profondeur, j'ai besoin de m'entourer d'experts. C'est cette constatation qui a donné naissance à l'idée de la création de ce podcast. Je vous embarque dans ce voyage d'apprentissage, car le monde financier est encore trop souvent complexe et cloisonné. Ensemble, brisons ces barrières, démocratisons la finance durable en partageant les parcours inspirants de ceux qui se battent pour leurs convictions.</itunes:summary>
+	<itunes:summary><![CDATA[<p>Ce secteur, encore récent pour moi, m'enthousiasme et me questionne. Pour le comprendre en profondeur, j'ai besoin de m'entourer d'experts. C'est cette constatation qui a donné naissance à l'idée de la création de ce podcast. Je vous embarque dans ce voyage d'apprentissage, car le monde financier est encore trop souvent complexe et cloisonné. Ensemble, brisons ces barrières, démocratisons la finance durable en partageant les parcours inspirants de ceux qui se battent pour leurs convictions.</p>]]></itunes:summary>
 	<itunes:author>Jeanne Derouéné</itunes:author>
 	<itunes:explicit>clean</itunes:explicit>
 	<itunes:image href="http://valuecometrics.com/image1600x1600.jpg" />
 	<itunes:type>episodic</itunes:type>
+	<itunes:explicit>episodic</itunes:explicit>
+	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
-		<itunes:name>Jeanne Derouéné</itunes:name>
-		<itunes:email>jeanne@valuecometrics.com</itunes:email>
+		<itunes:name>TV-Y</itunes:name>
+		<itunes:image>http://valuecometrics.com/image1600x1600.jpg</itunes:image>
 	</itunes:owner>
 	<managingEditor>jeanne@valuecometrics.com (Jeanne Derouéné)</managingEditor>
 	<copyright>Jeanne Derouéné</copyright>
@@ -43,7 +46,7 @@
 	<rawvoice:rating>TV-Y</rawvoice:rating>
 	<rawvoice:location>Paris, France</rawvoice:location>
 	<rawvoice:frequency>monthly</rawvoice:frequency>
-<rawvoice:subscribe feed="https://valuecometrics.com/podcast.rss" itunes="None" tunein="None" spotify="None"></rawvoice:subscribe>
+<rawvoice:subscribe feed="https://github.com/Mjoubrel/rethink-finance-podcast/blob/main/podcast.rss" itunes="None" tunein="None" spotify="None"></rawvoice:subscribe>
 
 <item>
 	<title>Décryptage de l'analyse financière 2.0</title>
@@ -57,9 +60,10 @@
 	<content:encoded><![CDATA[Dans cet épisode, nous plongeons dans les enjeux complexes et les frontières de l'analyse ESG dans le monde de la finance durable. Axel nous dévoile sa vision sur les pistes multiples qui aident à relever ces défis : des réglementations qui tracent le chemin à suivre, à la mesure de l'impact réel des investissements qu'il s'efforce de promouvoir, en passant par l'éducation qui éclaire la voie. Découvrez comment nous façonnons un avenir financier plus équilibré et durable. Rejoignez-nous dans cette quête enrichissante !]]></content:encoded>
 	<enclosure url="https://github.com/Mjoubrel/rethink-finance-podcast/blob/main/podcasts_episodes/episode_1.mpeg" length="23029206" type="audio/mpeg" />
 	<itunes:subtitle>Épisode 1 avec Axel Bonaldo</itunes:subtitle>
-	<itunes:summary><![CDATA[Dans cet épisode, nous plongeons dans les enjeux complexes et les frontières de l'analyse ESG dans le monde de la finance durable. Axel nous dévoile sa vision sur les pistes multiples qui aident à relever ces défis : des réglementations qui tracent le chemin à suivre, à la mesure de l'impact réel des investissements qu'il s'efforce de promouvoir, en passant par l'éducation qui éclaire la voie. Découvrez comment nous façonnons un avenir financier plus équilibré et durable. Rejoignez-nous dans cette quête enrichissante !]]></itunes:summary>
+	<itunes:summary><![CDATA[<p>Dans cet épisode, nous plongeons dans les enjeux complexes et les frontières de l'analyse ESG dans le monde de la finance durable. Axel nous dévoile sa vision sur les pistes multiples qui aident à relever ces défis : des réglementations qui tracent le chemin à suivre, à la mesure de l'impact réel des investissements qu'il s'efforce de promouvoir, en passant par l'éducation qui éclaire la voie. Découvrez comment nous façonnons un avenir financier plus équilibré et durable. Rejoignez-nous dans cette quête enrichissante !</p>]]></itunes:summary>
 	<itunes:author>Jeanne Derouéné</itunes:author>
 	<itunes:duration>1565</itunes:duration>
+	<guid isPermaLink = "false" > gid://Mjoubrel/rethink-finance-podcast/blob/main/ae3b79c8-4a99-11ee-8c1b-22670307aa54/</guid>
 </item>
 
 </channel>
